@@ -1,0 +1,16 @@
+
+.footer {
+    background-color: #161619;
+    height: 64px;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.App-logo {
+    width: 25px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
